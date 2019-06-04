@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/bin/Debug/netcoreapp2.1/VSCodeDebugger.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/bin/Debug/netcoreapp2.1/VSCodeDebugger.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/bin/Debug/netcoreapp2.1/VSCodeDebugger.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/bin/Debug/netcoreapp2.1/VSCodeDebugger.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/bin/Debug/netcoreapp2.1/VSCodeDebugger.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-c_sharp/VSCodeDebugger/VSCodeDebugger/obj/Debug/netcoreapp2.1/VSCodeDebugger.pdb
